@@ -2,36 +2,21 @@ Link to website: http://sotd.us/kylekubina/kkubina_mod5project_2417.html
 
 ## Summary of my Website
 
+My website is a project for my Mobile Application Development class. The purpose of it is to show that I've learned how to create a website with various properties such as; themes, panels, grids, and local storage.
 
+### Website Structure
 
-### Markdown
+The main page of the website contains a list with links to various pages.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The first link will take you to the Welcome page.
 
-```markdown
-Syntax highlighted code block
+The second link will take you to the Rules page.
 
-# Header 1
-## Header 2
-### Header 3
+The third link will take you to the Favorites page where you can see a list of my favorite things, and use a search function to quickly find items.
 
-- Bulleted
-- List
+The fourth link will take you to the Sign Up page which contains various user input options such as text fields, date, and radio buttons.
 
-1. Numbered
-2. List
+The fifth link will take you to the Grid and Panel example page. On this page you can see an example of using grids and panels. In order to see the panel, click the button in the top right corner. The panel can also be used to navigate to different pages on the site.
 
-**Bold** and _Italic_ and `Code` text
+The last link will take you to the Local Storage page. This page shows an example of local storage, which means the field will remain filled with whatever you enter even if you close the page. Feel free to test it!
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kylekub/kylekub.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
